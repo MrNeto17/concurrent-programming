@@ -1,3 +1,3 @@
 # concurrent-programing
-In this repository I'll be uploading the code that solves two series of Exercises.
+In this repository I'll be uploading two project phases with multiple exercises and my answers to them.
 It consists on Concurrent Programming exercises solved in Kotlin.
