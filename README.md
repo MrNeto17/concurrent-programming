@@ -1,3 +1,4 @@
 # concurrent-programing
-In this repository I'll be uploading two project phases with multiple exercises and my answers to them.
-It consists on Concurrent Programming exercises solved in Kotlin.
+Concurrent Programing Curricular Unit (Computer Engineering Bachelor)
+
+Posted here the resolution for a set of exercises envolving Concurrent Progamming using kotlin.
